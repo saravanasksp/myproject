@@ -286,7 +286,7 @@ JOB = {
 			multiple : JOB.Config.Multiple,
 			decodeFormats : JOB.Config.DecodeFormats,
 			cmd : "normal",
-			rotation : orientation,
+			rotation : portrait,
 			postOrientation : JOB.PostOrientation
 		});
 	},
